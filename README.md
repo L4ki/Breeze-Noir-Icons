@@ -5,3 +5,8 @@ Changelog: 11.05.2020.
 ----------------------
 
 Update Breeze Icons 5.68
+
+Changelog: 19.05.2020.
+---------------------
+
+Color correction folder icons
