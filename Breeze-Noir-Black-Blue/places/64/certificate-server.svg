@@ -10,7 +10,7 @@
    viewBox="0 0 64 64"
    version="1.1"
    id="svg14"
-   sodipodi:docname="folder-locked.svg"
+   sodipodi:docname="certificate-server.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata18">
@@ -33,11 +33,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1028"
+     inkscape:window-height="1022"
      id="namedview16"
      showgrid="false"
      inkscape:zoom="9.0026859"
-     inkscape:cx="28.060445"
+     inkscape:cx="8.1219509"
      inkscape:cy="26.733264"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -89,7 +89,7 @@
      class="ColorScheme-Highlight"
      id="path4" />
   <path
-     style="fill-opacity:1;fill-rule:evenodd;fill:#005379"
+     style="fill-opacity:1;fill-rule:evenodd;fill:#3daee9"
      d="M 4 6 L 4 11 L 4 20 L 22 20 L 26 16 L 60 16 L 60 11.009766 C 60 11.006766 59.998047 11.004 59.998047 11 L 60 11 L 60 10 L 32 10 L 28 6 L 4 6 z "
      id="path6" />
   <path

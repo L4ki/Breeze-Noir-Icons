@@ -36,11 +36,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1022"
      id="namedview29"
      showgrid="false"
      inkscape:zoom="5.7617188"
-     inkscape:cx="84.725055"
+     inkscape:cx="53.571157"
      inkscape:cy="28.368345"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -67,7 +67,7 @@
      d="m 4.0000004,6 v 27 c 0,0.554 0.446,1 1,1 H 59 c 0.554,0 1,-0.446 1,-1 V 11.01 L 59.998,11 H 60 V 10 H 32 L 28,6 Z"
      id="path7"
      inkscape:connector-curvature="0"
-     style="fill:#005379;fill-opacity:1" />
+     style="fill:#3daee9;fill-opacity:1" />
   <path
      d="m 26,16 -4,4 H 2.999995 v 1 h 0.002 l -0.002,0.012 V 58 H 61 V 16 Z"
      id="path9"
