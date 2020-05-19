@@ -15,7 +15,7 @@
    height="32"
    viewBox="0 0 32 32"
    id="svg36"
-   sodipodi:docname="user-desktop.svg"
+   sodipodi:docname="desktop.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -27,11 +27,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1022"
      id="namedview38"
      showgrid="false"
      inkscape:zoom="24.768009"
-     inkscape:cx="12.653786"
+     inkscape:cx="5.4065341"
      inkscape:cy="13.288446"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -64,7 +64,7 @@
        inkscape:collect="always"
        id="linearGradient4697">
       <stop
-         style="stop-color:#00171e;stop-opacity:1"
+         style="stop-color:#3daee9;stop-opacity:1"
          id="stop4699" />
       <stop
          offset="1"
@@ -89,7 +89,7 @@
          id="stop4528" />
       <stop
          offset="1"
-         style="stop-color:#005379;stop-opacity:1"
+         style="stop-color:#3daee9;stop-opacity:1"
          id="stop4530" />
     </linearGradient>
     <linearGradient

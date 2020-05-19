@@ -33,12 +33,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1022"
      id="namedview16"
      showgrid="false"
      inkscape:snap-midpoints="true"
      inkscape:zoom="22.72998"
-     inkscape:cx="16"
+     inkscape:cx="8.1029407"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -90,7 +90,7 @@
      class="ColorScheme-Highlight"
      id="path4" />
   <path
-     style="fill-opacity:1;fill-rule:evenodd;fill:#005379"
+     style="fill-opacity:1;fill-rule:evenodd;fill:#3daee9"
      d="m 2,3 0,7 9,0 L 13,8 30,8 30,5 16,5 14,3 2,3 Z"
      id="path6" />
   <path
