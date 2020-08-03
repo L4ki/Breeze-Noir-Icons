@@ -12,3 +12,8 @@ Changelog: 19.05.2020.
 Breeze-Noir-Black-Blue Icons
 
 Color correction folder icons
+
+Changelog: 03.08.2020.
+----------------------
+
+Update Breeze Icons 5.72
