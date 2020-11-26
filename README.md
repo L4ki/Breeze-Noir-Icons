@@ -17,3 +17,8 @@ Changelog: 03.08.2020.
 ----------------------
 
 Update Breeze Icons 5.72
+
+Changelog: 27.11.2020.
+----------------------
+
+Added icons: onlyoffice-desktopeditors.svg, onlyoffice.svg
