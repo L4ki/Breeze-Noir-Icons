@@ -22,3 +22,8 @@ Changelog: 27.11.2020.
 ----------------------
 
 Added icons: onlyoffice-desktopeditors.svg, onlyoffice.svg
+
+Changelog: 08.01.2021.
+----------------------
+
+Added icons: folder-KDE, folder-Neon, folder-openSUSE, folder-Manjaro, folder-reddit
