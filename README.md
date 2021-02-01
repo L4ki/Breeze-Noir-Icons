@@ -31,4 +31,4 @@ Added icons: folder-KDE, folder-Neon, folder-openSUSE, folder-Manjaro, folder-re
 Changelog: 01.02.2021.
 ----------------------
 
-Sdded Icons: folder-Github.svg, folder-Pop_OS.svg
+Added Icons: folder-Github.svg, folder-Pop_OS.svg
