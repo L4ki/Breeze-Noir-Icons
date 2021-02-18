@@ -37,3 +37,8 @@ Changelog: 11.02.2021.
 ----------------------
 
 Icon correction: activities.svg 
+
+Changelog: 18.02.2021.
+---------------------
+
+Correction of system.svg icons
