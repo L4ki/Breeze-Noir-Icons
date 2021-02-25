@@ -42,3 +42,8 @@ Changelog: 18.02.2021.
 ---------------------
 
 Correction of system.svg icons
+
+Changelog: 25.02.2021.
+----------------------
+
+Icons correction: action folder (22)
