@@ -47,3 +47,10 @@ Changelog: 25.02.2021.
 ----------------------
 
 Icons correction: action folder (22)
+
+Changelog: 06.03.2021.
+----------------------
+
+Added icons: emblems (8x8, 16x16, 22x22)
+
+Correction Icons: compass
