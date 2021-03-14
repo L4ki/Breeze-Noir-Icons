@@ -54,3 +54,8 @@ Changelog: 06.03.2021.
 Added icons: emblems (8x8, 16x16, 22x22)
 
 Correction icons: compass
+
+Changelog: 14.03.2021.
+---------------------
+
+Changed icons: bookmark.svg (actions)
