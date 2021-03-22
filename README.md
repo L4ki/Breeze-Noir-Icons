@@ -59,3 +59,8 @@ Changelog: 14.03.2021.
 ---------------------
 
 Changed icons: bookmark.svg (actions)
+
+Changelog: 22.03.2021.
+----------------------
+
+Added Icons: action(48 and 64)
