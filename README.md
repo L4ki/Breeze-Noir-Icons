@@ -64,3 +64,8 @@ Changelog: 22.03.2021.
 ----------------------
 
 Added Icons: action(48 and 64)
+
+Changelog: 29.03.2021.
+----------------------
+
+Added Icons: status(48 and 64)
