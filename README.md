@@ -69,3 +69,8 @@ Changelog: 29.03.2021.
 ----------------------
 
 Added Icons: status (48 and 64)
+
+Changelog: 07.04.2021.
+-----------------------
+
+Added Icons: folder-Github, folder-KDE, folder-Neon, folder-Manjaro, folder-openSUSE, folder-reddit, folder-Pop_OS (16,22,24)
