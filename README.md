@@ -78,7 +78,7 @@ Added Icons: folder-Github, folder-KDE, folder-Neon, folder-Manjaro, folder-open
 Changelog: 14.04.2021.
 ----------------------
 
-Ikons "Breeze-Noir-Dark"
+Ikons "Breeze-Noir-White-Blue"
 ------------------------
 
 Added new icons: devices (64 and symbolic) 
