@@ -82,3 +82,16 @@ Ikons "Breeze-Noir-White-Blue"
 ------------------------
 
 Added new icons: devices (64 and symbolic) 
+
+Changelog: 22.04.2021.
+----------------------
+
+Icons "Breeze-Noir-Black-Blue"
+-------------------------------
+
+Added new icons (devices-symbolic)
+
+Icons :Breeze-Noir-White-Blue"
+-------------------------------
+
+Added new icons (applets-16,22,24,256)
