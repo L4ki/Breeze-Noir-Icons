@@ -1,13 +1,84 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="office-chart-pie.svg"
+   id="svg6"
+   version="1.1"
+   viewBox="0 0 16 16">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg6"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="8.2033898"
+     inkscape:cx="-4.1694915"
+     inkscape:zoom="14.75"
+     showgrid="false"
+     id="namedview8"
+     inkscape:window-height="1014"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs3051">
+    <linearGradient
+       id="linearGradient821"
+       inkscape:collect="always">
+      <stop
+         id="stop817"
+         offset="0"
+         style="stop-color:#001e2c;stop-opacity:1" />
+      <stop
+         id="stop819"
+         offset="1"
+         style="stop-color:#005780;stop-opacity:1" />
+    </linearGradient>
+    <style
+       id="current-color-scheme"
+       type="text/css">
       .ColorScheme-Text {
-        color:#232629;
+        color:#eff0f1;
       }
       </style>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="8.5055199"
+       x2="9.1982222"
+       y1="8.410409"
+       x1="1.9696604"
+       id="linearGradient823"
+       xlink:href="#linearGradient821"
+       inkscape:collect="always" />
   </defs>
- <path style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 8 2 A 6.0000019 6.0000148 0 0 0 2 8 A 6.0000019 6.0000148 0 0 0 8 14 A 6.0000019 6.0000148 0 0 0 14 8 A 6.0000019 6.0000148 0 0 0 8 2 z M 8 3 L 8 8 L 13 8 A 5 5 0 0 1 8 13 A 5 5 0 0 1 3 8 A 5 5 0 0 1 8 3 z "
+  <path
+     id="path4"
      class="ColorScheme-Text"
-     />
+     d="M 8 2 A 6.0000019 6.0000148 0 0 0 2 8 A 6.0000019 6.0000148 0 0 0 8 14 A 6.0000019 6.0000148 0 0 0 14 8 A 6.0000019 6.0000148 0 0 0 8 2 z M 8 3 L 8 8 L 13 8 A 5 5 0 0 1 8 13 A 5 5 0 0 1 3 8 A 5 5 0 0 1 8 3 z "
+     style="fill:url(#linearGradient823);fill-opacity:1;stroke:none" />
 </svg>
