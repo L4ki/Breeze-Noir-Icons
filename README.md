@@ -95,3 +95,21 @@ Icons :Breeze-Noir-White-Blue"
 -------------------------------
 
 Added new icons (applets-16,22,24,256)
+
+Changelog: 29.04.2021.
+----------------------
+
+Icons Breeze-Noir-White-Blue"
+------------------------------
+
+Added new icons: devices (24)
+
+Icons "Breeze-Noir-Black-Blue"
+------------------------------
+
+Added new icons: applets (16,24, 256)
+
+
+
+
+
