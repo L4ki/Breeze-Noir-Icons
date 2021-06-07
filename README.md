@@ -130,6 +130,11 @@ Changelog: 29.05.2021.
 Added new icons: actions (32)
 
 
+Changelog: 07.06.2021.
+----------------------
+
+Added new icons: actions (16)
+
 
 
 
