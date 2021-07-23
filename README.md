@@ -150,6 +150,11 @@ Changelog: 06.07.2021.
 
 Added New icons: status (16)
 
+Changelog: 23.07.2021.
+----------------------
+
+Added new icons: status (16, 22, 24)
+
 
 
 
