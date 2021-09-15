@@ -180,6 +180,11 @@ Changelog: 08.09.2021.
 
 Added new icons: apps (16, 32, 48)
 
+Changelog: 15.09.2021.
+---------------------
+
+Added new icons: status
+
 
 
 
