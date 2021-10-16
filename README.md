@@ -201,6 +201,11 @@ Changelog: 08.10.2021.
 Added new icons: mimetypes
 
 
+Changelog: 16.10.2021.
+----------------------
+
+Added new icons: mimetypes (16, 22, 24, 32, 64)
+
 
 
 
