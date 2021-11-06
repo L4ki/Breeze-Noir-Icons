@@ -218,6 +218,12 @@ Changelog: 30.10.2021.
 
 Added new icons: status (symbolic)
 
+Changelog: 06.11.2021.
+----------------------
+
+Added new icons: apps
+
+
 
 
 
