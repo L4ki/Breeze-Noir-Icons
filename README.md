@@ -240,10 +240,10 @@ Changelog: 27.11.2021.
 Added new icons: actions (22)
 
 
-Changelog: 04.12.2021.
+Changelog: 11.12.2021.
 ----------------------
 
-Added new icons: actions (24)
+Added new icons: actions (16)
 
 
 
