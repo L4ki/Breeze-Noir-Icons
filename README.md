@@ -261,6 +261,11 @@ Changelog: 01.01.2022.
 
 Added new icons: actions (24)
 
+Changelog: 08.01.2022.
+----------------------
+
+Added new icons: actions (32)
+
 
 
 
