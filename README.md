@@ -282,6 +282,22 @@ Changelog: 30.01.2022.
 
 Added new icons: status (22)
 
+Changelog: 06.02.2022.
+----------------------
+
+Breeze-Noir-Black-Blue Icons
+-----------------------------
+
+Added new icons: status (24)
+
+Breeze-Noir-White-Blue Icons
+-----------------------------
+
+Added new icons: status (symbolic)
+
+
+
+
 
 
 
