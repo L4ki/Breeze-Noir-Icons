@@ -295,6 +295,11 @@ Breeze-Noir-White-Blue Icons
 
 Added new icons: status (symbolic)
 
+Changelog: 13.02.2022.
+----------------------
+
+Added new icons applets (256)
+
 
 
 
