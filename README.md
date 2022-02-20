@@ -301,6 +301,12 @@ Changelog: 13.02.2022.
 Added new icons applets (256)
 
 
+Changelog: 20.02.2022.
+----------------------
+
+Added new icons: devices (16)
+
+
 
 
 
