@@ -306,6 +306,11 @@ Changelog: 20.02.2022.
 
 Added new icons: devices (16)
 
+Changelog: 27.02.2022.
+----------------------
+
+Added new icons: devices (22)
+
 
 
 
