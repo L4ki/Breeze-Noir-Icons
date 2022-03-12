@@ -315,7 +315,7 @@ Added new icons: devices (22)
 Changelog: 06.03.2022.
 ----------------------
 
-Added new icons: devices (24)
+Added new icons: devices (64)
 
 
 
