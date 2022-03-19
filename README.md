@@ -322,6 +322,11 @@ Changelog: 13.03.2022.
 
 Added new icons: devices (64)
 
+Changelog: 20.03.2022.
+----------------------
+
+Added new icons: mimetypes (16)
+
 
 
 
