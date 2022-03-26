@@ -328,6 +328,12 @@ Changelog: 20.03.2022.
 Added new icons: mimetypes (16)
 
 
+Changelog: 27.03.2022.
+----------------------
+
+Added new icons: mimetypes (22)
+
+
 
 
 
