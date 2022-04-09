@@ -339,6 +339,11 @@ Changelog: 03.04.2022.
 Added new icons: mimetypes (32)
 
 
+Changelog: 10.04.2022.
+----------------------
+
+Added new icons: mimetypes (64)
+
 
 
 
