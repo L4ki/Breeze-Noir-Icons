@@ -345,6 +345,11 @@ Changelog: 10.04.2022.
 Added new icons: mimetypes (64)
 
 
+Changelog: 17.04.2022.
+----------------------
+
+Added new icons: devices (16, 22, 24, 64)
+
 
 
 
