@@ -370,6 +370,11 @@ Changelog: 15.05.2022.
 
 Added new icons: actions 16
 
+Changelog: 22.05.2022.
+----------------------
+
+Added new icons: actions 22
+
 
 
 
