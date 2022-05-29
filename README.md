@@ -375,6 +375,19 @@ Changelog: 22.05.2022.
 
 Added new icons: actions 22
 
+Changelog: 29.05.2022.
+----------------------
+
+Dark Icons
+----------
+
+Added new icons: mimetyoes 24
+
+Light Icons
+-----------
+
+Added new icons emblems 16
+
 
 
 
