@@ -381,7 +381,7 @@ Changelog: 29.05.2022.
 Dark Icons
 ----------
 
-Added new icons: mimetyoes 24
+Added new icons: mimetypes 24
 
 Light Icons
 -----------
