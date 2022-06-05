@@ -388,6 +388,10 @@ Light Icons
 
 Added new icons emblems 16
 
+Changelog: 05.06.2022.
+----------------------
+
+Added new icons: actions 24
 
 
 
