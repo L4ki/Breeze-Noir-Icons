@@ -399,6 +399,12 @@ Changelog: 13.06.2022.
 Update icons: actions 22
 
 
+Changelog: 20.06.2022.
+----------------------
+
+Update icons: actions 16
+
+
 
 
 
