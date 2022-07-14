@@ -418,7 +418,7 @@ Added new icons: actions 22
 Changelog: 14.07.2022.
 ----------------------
 
-Added new icons: actions 22
+Added new icons: actions 16
 
 
 
