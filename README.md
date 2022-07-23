@@ -420,6 +420,10 @@ Changelog: 14.07.2022.
 
 Added new icons: actions 16
 
+Changelog: 23.07.2022.
+----------------------
+
+Added new icons: actions 24
 
 
 
