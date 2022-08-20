@@ -441,6 +441,11 @@ Changelog: 13.08.2022.
 
 Added new icons: actions 24
 
+Changelog: 20.08.2022.
+----------------------
+
+Added new icons: mimetypes
+
 
 
 
