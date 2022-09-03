@@ -452,6 +452,11 @@ Changelog: 27.08.2022.
 
 Added new icons: actions 22
 
+Changelog: 03.09.2022.
+----------------------
+
+Added new icons: actions 16
+
 
 
 
