@@ -463,6 +463,11 @@ Changelog: 10.09.2022.
 
 Added new icons: actions 24
 
+Changelog: 17.09.2022.
+----------------------
+
+Update icons: places
+
 
 
 
