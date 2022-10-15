@@ -483,6 +483,11 @@ Changelog: 08.10.2022.
 
 Added new icons: apps
 
+Changelog: 15.10.2022.
+----------------------
+
+Update icons: apps (system-file-manager)
+
 
 
 
