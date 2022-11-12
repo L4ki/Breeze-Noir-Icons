@@ -1,6 +1,11 @@
 # Breeze-Noir-Icons
 Breeze-Noir-Icons For Plasma Themes
 
+![Screenshot_20220417_134330](https://user-images.githubusercontent.com/45247573/201469758-869cd31f-48e6-4b06-a662-adf114282be6.png)
+
+![Screenshot_20220417_134815](https://user-images.githubusercontent.com/45247573/201469764-e423ee09-4baa-4d9e-8c4d-02b3117bfc9e.png)
+
+
 Changelog: 11.05.2020.
 ----------------------
 
@@ -500,6 +505,11 @@ Changelog: 29.10.2022.
 Added new icons: apps
 
 Changelog: 05.11.2022.
+----------------------
+
+Added new icons: apps 32, 48
+
+Changelog: 12.11.2022.
 ----------------------
 
 Added new icons: apps 32, 48
