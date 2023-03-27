@@ -2,15 +2,15 @@
 <svg
    viewBox="0 0 64 64"
    version="1.1"
-   id="svg7948"
-   sodipodi:docname="folder-gdrive.svg"
+   id="svg4222"
+   sodipodi:docname="folder-comic.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview7950"
+     id="namedview4224"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -27,7 +27,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg7948" />
+     inkscape:current-layer="svg4222" />
   <defs
      id="defs3051">
     <style
@@ -43,25 +43,25 @@
   </defs>
   <path
      style="color:#3daee9;fill:#00171e;fill-opacity:1;stroke:none"
-     d="M 4,5.9999993 V 11 20 H 3 v 1 H 3.002 C 3.00195,21.004 3,21.008 3,21.01172 v 35.988281 1 h 1 56 1 v -1 V 21.01172 21 16 h -1 v -4.990234 c 0,-0.003 -0.002,-0.0058 -0.002,-0.0098 H 60 V 9.9999997 H 32 L 28,5.9999993 Z"
+     d="M 4.000001,5.9999995 V 11 20 h -1 v 1 h 0.002 c -5e-5,0.004 -0.002,0.008 -0.002,0.01172 V 57 58 h 1 55.999998 1 V 57 21.01172 21 16 h -1 v -4.990234 c 0,-0.003 -0.002,-0.0058 -0.002,-0.0098 h 0.002 V 9.9999996 h -28 l -4,-4.0000001 z"
      class="ColorScheme-Highlight"
      id="path4" />
   <path
      style="fill:#3daee9;fill-opacity:1;fill-rule:evenodd"
-     d="M 4,5.9999993 V 11 20 h 18 l 4,-4 h 34 v -4.990234 c 0,-0.003 -0.002,-0.0058 -0.002,-0.0098 H 60 V 9.9999997 H 32 L 28,5.9999993 Z"
+     d="M 4.000001,5.9999995 V 11 20 h 17.999998 l 4,-4 h 34 v -4.990234 c 0,-0.003 -0.002,-0.0058 -0.002,-0.0098 h 0.002 V 9.9999996 h -28 l -4,-4.0000001 z"
      id="path6" />
   <path
      style="fill:#ffffff;fill-opacity:0.2;fill-rule:evenodd"
-     d="M 28,5.9999993 31,11 h 2 27 V 9.9999997 H 33 32 Z M 26,16 22,20 H 3 v 1 h 20 z"
+     d="m 27.999999,5.9999995 3,5.0000005 h 2 27 V 9.9999996 h -27 -1 z m -2,10.0000005 -4,4 H 3.000001 v 1 h 19.999998 z"
      id="path8" />
   <path
      style="color:#31363b;fill-opacity:0.2;fill-rule:evenodd"
-     d="m 26,16 -6,3 H 4 v 1 H 22 Z M 3,57 v 1 h 1 56 1 V 57 H 60 4 Z"
+     d="m 25.999999,16 -6,3 H 4.000001 v 1 H 21.999999 Z M 3.000001,57 v 1 h 1 55.999998 1 v -1 h -1 -55.999998 z"
      class="ColorScheme-Text"
      id="path10" />
   <path
      style="color:#232629;fill:#ffffff;fill-opacity:1;stroke:none"
-     d="m 29,27 7,12.9 h 7 L 36,27 Z m -1,1.1 -7,11.5 3.2,6.7 L 31,34.1 Z M 28.9,41.3 25.4,47 H 39.5 L 43,41.3 Z"
+     d="m 27.5,27 v 5 h -6 v 10 l 4,5 v -5 h 11 v -5 h 2 v 5 l 4,-5 V 27 Z m 1,1 h 13 v 8 h -13 z m -6,5 h 5 v 4 h 8 v 4 h -13 z"
      class="ColorScheme-Text"
-     id="path7946-7" />
+     id="path4220-5" />
 </svg>
