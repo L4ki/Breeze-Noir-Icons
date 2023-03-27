@@ -3,7 +3,7 @@
    viewBox="0 0 64 64"
    version="1.1"
    id="svg12"
-   sodipodi:docname="folder-gdrive.svg"
+   sodipodi:docname="folder-notes.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -128,7 +128,7 @@
      id="path10" />
   <path
      style="color:#232629;fill:#002d3c;fill-opacity:1;stroke:none"
-     d="m 29,27 7,12.9 h 7 L 36,27 Z m -1,1.1 -7,11.5 3.2,6.7 L 31,34.1 Z M 28.9,41.3 25.4,47 H 39.5 L 43,41.3 Z"
+     d="m 22,26 c -0.554,0 -1,0.446 -1,1 v 20 c 0,0.554 0.446,1 1,1 h 18 c 0.554,0 1,-0.446 1,-1 v -1 h 1 c 0.554,0 1,-0.446 1,-1 V 41 C 43,40.814 42.93566,40.649 42.847656,40.5 42.935656,40.351 43,40.186 43,40 V 36 C 43,35.814 42.93566,35.649 42.847656,35.5 42.935656,35.351 43,35.186 43,35 v -4 c 0,-0.554 -0.446,-1 -1,-1 h -1 v -3 c 0,-0.554 -0.446,-1 -1,-1 z m 0,1 H 40 V 47 H 22 Z m 1,2 v 1 h 7 v -1 z m 9,0 v 1 h 7 v -1 z m 9,2 h 1 v 4 h -1 z m -18,1 v 1 h 7 v -1 z m 9,0 v 1 h 7 v -1 z m -9,3 v 1 h 7 v -1 z m 9,0 v 1 h 7 v -1 z m 9,1 h 1 v 4 h -1 z m -18,2 v 1 h 7 v -1 z m 9,0 v 1 h 7 v -1 z m -9,3 v 1 h 7 v -1 z m 9,0 v 1 h 7 v -1 z m 9,0 h 1 v 4 h -1 z m -18,3 v 1 h 7 v -1 z m 9,0 v 1 h 7 v -1 z"
      class="ColorScheme-Text"
-     id="path12293" />
+     id="path17657" />
 </svg>
