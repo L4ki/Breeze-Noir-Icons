@@ -2,15 +2,15 @@
 <svg
    viewBox="0 0 32 32"
    version="1.1"
-   id="svg9258"
-   sodipodi:docname="folder-gdrive.svg"
+   id="svg11170"
+   sodipodi:docname="folder-language.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview9260"
+     id="namedview11172"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -27,7 +27,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg9258" />
+     inkscape:current-layer="svg11170" />
   <defs
      id="defs3051">
     <style
@@ -61,7 +61,7 @@
      id="path10" />
   <path
      style="color:#31363b;fill:#ffffff;fill-opacity:1;stroke:none"
-     d="m 13.4,13.5 -3.4,6.7 1.7,3.3 3.6,-6.9 z m 0.9,0 4.3,6.7 H 22 L 17.7,13.5 Z M 14,21 12.6,23.5 h 7.7 L 22,21 Z"
+     d="m 16.474,20.087 -1.385,-1.38 0.016,-0.016 c 0.949,-1.067 1.625,-2.388 2.024,-3.686 L 19,15 V 13.995 L 15,14 v -1 h -1 v 1 h -4 v 1 h 6.093 c -0.365,1.062 -0.944,2.163 -1.729,3.043 C 13.857,17.476 13.424,16.654 13.091,16 H 12 c 0.398,0.896 0.957,1.945 1.638,2.709 l -2.776,2.761 0.775,0.781 2.727,-2.75 1.696,1.71 z M 19.546,17.4 H 18.455 L 16,24 h 1.231625 L 18,22 h 2 l 0.909,2 H 22 Z M 18.234375,21 19.001,18.869 19.763875,21 Z"
      class="ColorScheme-Text"
-     id="path9256-6" />
+     id="path11168-1" />
 </svg>
