@@ -3,7 +3,7 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg12"
-   sodipodi:docname="folder-gdrive.svg"
+   sodipodi:docname="folder-presentation.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -128,7 +128,7 @@
      id="path10" />
   <path
      style="color:#31363b;fill:#002d3c;fill-opacity:1;stroke:none"
-     d="m 13.4,13.5 -3.4,6.7 1.7,3.3 3.6,-6.9 z m 0.9,0 4.3,6.7 H 22 L 17.7,13.5 Z M 14,21 12.6,23.5 h 7.7 L 22,21 Z"
+     d="m 11,12.5 c -0.554,0 -1,0.446 -1,1 v 10 c 0,0.554 0.446,1 1,1 h 10 c 0.554,0 1,-0.446 1,-1 v -10 c 0,-0.554 -0.446,-1 -1,-1 z m 0,1 h 10 v 10 H 11 Z m 6,1 v 3 h 3 a 3,3 0 0 0 -3,-3 z m -1,1 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 h -3 z"
      class="ColorScheme-Text"
-     id="path3641" />
+     id="path10160" />
 </svg>
