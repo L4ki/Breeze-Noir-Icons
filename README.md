@@ -622,5 +622,10 @@ Changelog: 27.03.2023.
 
 Added new icons: places 32, 64
 
+Changelog: 03.04.2023.
+----------------------
+
+Added new icons: places 32, 64
+
 
 
