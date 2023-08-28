@@ -728,4 +728,8 @@ Changelog: 21.08.2023.
 
 Added new icons: apps 32, 48
 
+Changelog: 28.08.2023.
+----------------------
+
+Added new icons: apps 32, 48
 
