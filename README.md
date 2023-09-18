@@ -744,3 +744,8 @@ Changelog: 11.09.2023.
 ----------------------
 
 Added new icons: apps 32, 48
+
+Changelog: 18.09.2023.
+----------------------
+
+Added new icons: apps 32, 48
