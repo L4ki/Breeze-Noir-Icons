@@ -18,5 +18,8 @@ Changelog: 23.03.2024.
 Added new icons: apps 48
 
 
+Changelog: 25.03.2024.
+----------------------
 
+Update icons: actions
 
