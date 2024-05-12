@@ -12,10 +12,10 @@ Breeze-Noir-Icons For Plasma Themes
 ____________________________________________________________________________________________________________________________________
 
 
-Changelog: 06.05.2024.
+Changelog: 12.05.2024.
 ----------------------
 
-Added new icons and update: apps 48
+Added new icons: apps 48
 
 
 
