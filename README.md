@@ -13,7 +13,6 @@ Download: https://www.pling.com/p/1361468/
     <h2>Donate</h2>
     <h2>If you like my project, you can donate at:</h2>
     <a href="https://www.paypal.com/paypalme/VesnaLazic">
-      ___________________________________________________
     <img src="PayPal.png" alt="PayPal" />
     </a>
   </body>
